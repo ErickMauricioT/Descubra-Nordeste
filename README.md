@@ -1,15 +1,14 @@
-Deploy: https://descubra-nordeste.vercel.app/#
+### 🌍 Descubra o Nordeste
+Descubra o Nordeste é uma aplicação interativa que explora a cultura, curiosidades e lendas dos estados da região Nordeste do Brasil. Com uma interface simples e fácil de usar, você pode navegar pelos estados, descobrir fatos interessantes e mergulhar nas tradições dessa incrível região.
 
-Descubra o Nordeste
-"Descubra o Nordeste" é uma aplicação interativa que exibe curiosidades, lendas e informações culturais sobre os estados da região Nordeste do Brasil. O projeto foi desenvolvido com HTML, CSS e JavaScript, proporcionando uma maneira simples e agradável para usuários navegarem e aprenderem mais sobre a rica cultura e história dos estados nordestinos.
+### 📋 Funcionalidades
+✅ Exibição de curiosidades, lendas e informações culturais sobre cada estado do Nordeste.
+✅ Busca por estados via campo de pesquisa.
+✅ Visualização de bandeiras e imagens representativas dos estados.
+✅ Interface responsiva, adaptada para diversos dispositivos.
 
-Funcionalidades
-Exibição de curiosidades, lendas e imagens de cada estado do Nordeste.
-Possibilidade de buscar estados através de um campo de busca.
-Interface amigável e responsiva, permitindo uma navegação intuitiva.
-Visualização das bandeiras dos estados e imagens relevantes sobre suas capitais e cultura.
-Estados Disponíveis
-Atualmente, a aplicação contém informações detalhadas sobre os seguintes estados:
+### 🗺️ Estados Disponíveis
+O aplicativo oferece informações detalhadas sobre os seguintes estados:
 
 Bahia
 Ceará
@@ -20,44 +19,62 @@ Pernambuco
 Piauí
 Rio Grande do Norte
 Sergipe
-Cada estado inclui informações como:
+Cada estado inclui:
 
-Nome do estado e capital
-Curiosidades culturais
-Lendas locais
-Galeria de imagens
-Como Usar
-Clone o repositório:
+🏛️ Nome e capital
+📜 Curiosidades culturais
+👻 Lendas populares
+🖼️ Galeria de imagens
+
+### 🚀 Como Usar
+Clone o repositório para o seu ambiente local:
+
 bash
 Copiar código
 git clone https://github.com/ErickMauricioT/Descubra-Nordeste.git
 Navegue até o diretório do projeto:
+
 bash
 Copiar código
 cd Descubra-Nordeste
-Abra o arquivo index.html no navegador para iniciar a aplicação.
-Estrutura do Projeto
-lua
+Abra o arquivo index.html no seu navegador de preferência.
+
+### 🛠️ Tecnologias Utilizadas
+HTML5: Estrutura da página.
+CSS3: Estilização e design responsivo.
+JavaScript: Lógica de interação e manipulação do DOM.
+
+### 📁 Estrutura do Projeto
+bash
 Copiar código
-|-- index.html          # Arquivo principal da aplicação
-|-- css/
-|   |-- style.css       # Estilos da aplicação
-|-- js/
-|   |-- scripts.js      # Lógica da aplicação em JavaScript
-|-- img/
-|   |-- (Imagens usadas na aplicação)
-Tecnologias Utilizadas
-HTML5: Para estruturar a aplicação.
-CSS3: Para o design e estilização.
-JavaScript: Para a manipulação dinâmica do DOM e funcionalidades interativas.
-Melhorias Futuras
-Adicionar mais informações sobre cada estado, como gastronomia e pontos turísticos.
-Melhorar a interface gráfica para dispositivos móveis.
-Implementar uma funcionalidade de favoritos, permitindo que os usuários salvem seus estados preferidos.
-Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e fazer pull requests.
-
-Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Descubra-Nordeste/
+#### Arquivo principal da aplicação
+├── index.html  
+#### Estilos da aplicação
+├── css/
+│   └── style.css  
+#### Lógica em JavaScript
+├── js/
+│   └── scripts.js  
+#### Imagens
+└── img/
+    └── (Imagens usadas na aplicação)
 
 
+### 🛤️ Melhorias Futuras
+📍 Adicionar pontos turísticos de cada estado.
+🍽️ Incluir informações sobre a gastronomia local.
+⭐ Implementar uma funcionalidade para salvar estados favoritos.
+📱 Melhorar a interface para dispositivos móveis.
+
+### 🧑‍💻 Contribuições
+Contribuições são bem-vindas! Se você tiver sugestões ou encontrar problemas, abra uma issue ou faça um pull request.
+
+### 📄 Licença
+Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais informações.
+
+### 💡 Pré-visualização
+Você pode adicionar uma imagem ou GIF da aplicação em funcionamento para deixar ainda mais atrativo.
+
+
+## Deploy: https://descubra-nordeste.vercel.app/
